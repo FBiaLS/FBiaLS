@@ -1,5 +1,5 @@
-### Hi there 👋
-#Code
+### FBiaLS
+Things I actively use or am learning
 
 <!--
 **FBiaLS/FBiaLS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
