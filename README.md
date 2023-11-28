@@ -1,6 +1,10 @@
-### FBiaLS
-Things I actively use or am learning
-
+## FBiaLS
+### Stuff I know how to use
+[![My Skills](https://skillicons.dev/icons?i=py,html,vscode,replit,discord)](https://skillicons.dev)
+### Stuff I'm learning
+[![My Skills](https://skillicons.dev/icons?i=cpp,cmake,github)](https://skillicons.dev)
+### Stuff I've abandonned
+[![My Skills](https://skillicons.dev/icons?i=blender)](https://skillicons.dev)
 <!--
 **FBiaLS/FBiaLS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
